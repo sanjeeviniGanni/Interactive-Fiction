@@ -1,0 +1,11 @@
+E
+Pick apple
+Down
+Light lamp
+Give apple to Auri
+Take key
+Up
+Talk to eloin
+N
+Read inscription
+Unlock left keyhole with the key
